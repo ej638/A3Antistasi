@@ -1,0 +1,64 @@
+version=1;
+blood=1;
+singleVoice=0;
+gamma=1;
+brightness=1;
+activeKeys[]=
+{
+	"BIS_ultimate_warfare_rubber_edition_chernarus_w.chernarus_winter_done",
+	"BIS_ultimate_warfare_rubber_edition_takistan.takistan_done",
+	"BIS_ultimate_warfare_rubber_edition_chernarus.chernarus_done",
+	"BIS_ultimate_warfare_rubber_edition_altis.altis_done",
+	"BIS_ultimate_warfare_rubber_edition_staszow.staszow_done",
+	"BIS_ultimate_warfare_rubber_edition_fallujah.fallujah_done",
+	"BIS_ultimate_warfare_rubber_edition_abel.abel_done"
+};
+class DifficultyPresets
+{
+	class CustomDifficulty
+	{
+		class Options
+		{
+			reducedDamage=0;
+			groupIndicators=1;
+			friendlyTags=1;
+			enemyTags=0;
+			detectedMines=1;
+			commands=1;
+			waypoints=2;
+			tacticalPing=0;
+			weaponInfo=2;
+			stanceIndicator=2;
+			staminaBar=1;
+			weaponCrosshair=1;
+			visionAid=0;
+			thirdPersonView=1;
+			cameraShake=0;
+			scoreTable=1;
+			deathMessages=1;
+			vonID=1;
+			mapContent=0;
+			autoReport=0;
+			multipleSaves=0;
+			mapContentFriendly=1;
+		};
+		aiLevelPreset=3;
+	};
+	class CustomAILevel
+	{
+		skillAI=1.3;
+		precisionAI=1.1;
+	};
+};
+sceneComplexity=400000;
+shadowZDistance=100;
+viewDistance=4000;
+preferredObjectViewDistance=800;
+pipViewDistance=500;
+terrainGrid=25;
+volumeCD=5;
+volumeFX=5;
+volumeSpeech=5;
+volumeVoN=10;
+vonRecThreshold=0.029999999;
+volumeMapDucking=1;
