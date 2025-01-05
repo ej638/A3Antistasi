@@ -14,7 +14,8 @@ activeKeys[]=
 	"BIS_ultimate_warfare_rubber_edition_abel.abel_done",
 	"BIS_Antistasi_takistan.takistan_done",
 	"BIS_Antistasi_cup_chernarus_A3.cup_chernarus_A3_done",
-	"BIS_Antistasi_Altis.Altis_done"
+	"BIS_Antistasi_Altis.Altis_done",
+	"BIS_Antistasi_Tanoa.Tanoa_done"
 };
 class DifficultyPresets
 {
