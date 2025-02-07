@@ -16,7 +16,8 @@ activeKeys[]=
 	"BIS_Antistasi_cup_chernarus_A3.cup_chernarus_A3_done",
 	"BIS_Antistasi_Altis.Altis_done",
 	"BIS_Antistasi_Tanoa.Tanoa_done",
-	"BIS_Bulwarks.swu_greece_pella_region_done"
+	"BIS_Bulwarks.swu_greece_pella_region_done",
+	"BIS_Bulwarks.chernarus_winter_done"
 };
 class DifficultyPresets
 {
